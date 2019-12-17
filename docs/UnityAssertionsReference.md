@@ -633,7 +633,7 @@ Asserts that `actual` parameter is a Not A Number floating point representation.
 
 ##### `TEST_ASSERT_FLOAT_IS_DETERMINATE (actual)`
 
-Asserts that ?actual?parameter is a floating point representation usable for
+Asserts that `actual` parameter is a floating point representation usable for
 mathematical operations. That is, the `actual` parameter is neither positive
 infinity nor negative infinity nor Not A Number floating point representations.
 
